@@ -27,7 +27,7 @@ I enjoy turning ideas into real-world projects using **MongoDB, Express.js, Reac
 - Improving **problem-solving skills** and contributing to open-source
 
 ## 📫 Connect with me
-- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
+- LinkedIn: [linkedin.com/in/aditya-mhaiskar-75b44621b](https://linkedin.com/in/aditya-mhaiskar-75b44621b)  
 - GitHub: [github.com/Coderatna](https://github.com/Coderatna)  
 - Email: aditya.mhaiskar.dev@gmail.com
 
